@@ -42,6 +42,6 @@
 
    https://github.com/rchakode/kube-opex-analytics
    
- <img src="https://github.com/hs-1971188-yundongwon/project/main/image.png" width="1000" height="1000">
+ <img src="https://github.com/hs-1971188-yundongwon/project/image.png" width="1000" height="1000">
    
    

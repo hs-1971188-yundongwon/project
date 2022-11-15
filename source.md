@@ -26,7 +26,7 @@
    
      ​	컨테이너: 우리가 구동하려는 애플리케이션을 실행할 수 있는 환경까지 감싸서, 어디서든 쉽게 실행할 수 있도록 해 주는 기술
    
-      Docker(도커)란?
+     ​	Docker(도커)란?
    
      ​	컨테이너를 다루는 도구중 하나
 
@@ -41,5 +41,7 @@
 5. 오픈소스 출처
 
    https://github.com/rchakode/kube-opex-analytics
-
-<img src="C:\Users\윤동원\OneDrive\바탕 화면\a.png" alt="a" style="zoom:75%;" />
+   
+   <img src="C:\Users\윤동원\OneDrive\바탕 화면\a.png" url>
+   
+   
